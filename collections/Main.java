@@ -8,7 +8,7 @@ public class Main {
         arrayList.add("Tg");
         arrayList.add("Tr");
         arrayList.add("Ta");
-        arrayList.add("Tn");
+        arrayList.add("last");
         arrayList.remove(2);
         for (int i = 0; i < arrayList.getSize(); i++) {
             System.out.println(arrayList.get(i));
